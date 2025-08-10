@@ -1,0 +1,9 @@
+Job Title: Junior Machine Learning Engineer
+
+Responsibilities:
+- Build and deploy machine learning models.
+- Work with Docker and Kubernetes for model deployment.
+- Collaborate with engineering teams to integrate models into production.
+
+Required Skills:
+Python, TensorFlow, Docker, Kubernetes, SQL

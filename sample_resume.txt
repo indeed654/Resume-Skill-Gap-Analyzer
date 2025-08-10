@@ -1,0 +1,7 @@
+Yash Kumar Sharma
+Email: yash@example.com
+Summary:
+B.Tech 2nd-year Computer Science (IoT) student with projects in Smart Home Automation, Decentralized IP System, Resume Analyzer.
+
+Skills:
+Python, FastAPI, React, Docker, AWS, TensorFlow, PyTorch, SQL, Git
